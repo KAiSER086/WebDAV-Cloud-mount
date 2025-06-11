@@ -28,7 +28,7 @@
 ## Methode 2: AirLiveDrive (Cloud-Speicher als lokales Laufwerke an, auto-mount on boot)
 
 1. **AirLiveDrive** herunterladen und installieren.
-    https://www.airlivedrive.com/downloads/AirLiveDrive-Installer.exe
+    'https://www.airlivedrive.com/downloads/AirLiveDrive-Installer.exe'
 
 2. Laufwerk hinzufügen.
 
