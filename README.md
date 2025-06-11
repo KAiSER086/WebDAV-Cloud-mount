@@ -1,6 +1,6 @@
 # WebDAV Cloud Storage in Windows mounten
 
-## Methode 1: Native Windows-Funktion "Netzwerkadresse hinzufügen" (weniger stabil, kein auto-mount on boot)
+## Methode 1: Native Windows-Funktion (weniger stabil, kein auto-mount on boot)
 
 1. Öffne den **Datei-Explorer** und wechsle zu **Dieser PC**.
 
