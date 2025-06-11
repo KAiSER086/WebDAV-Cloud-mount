@@ -10,7 +10,7 @@
 
 3. Netzwerkadresse einfügen [https://465480-sub1.your-storagebox.de]
 
-![Netzwerkadresse](/images/rundll32_BcEz3SxjmT.png)
+![Netzwerkadresse](/Images/rundll32_BcEz3SxjmT.png)
 
 4. Im **Credential Broker** deine Nutzerdaten eingeben.
 
