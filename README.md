@@ -18,6 +18,10 @@
 
 5. Dem **WebDAV Mount** einen Namen geben und das Setup abschließen.
 
+![Setup](/Images/rundll32_si1WMh3yFp.png)
+
+6. Der Explorer sollte jetzt so aussehen:
+
 ![Explorer](/Images/explorer_6DDFmsxbGd.png)
 
 
